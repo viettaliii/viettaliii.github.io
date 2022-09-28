@@ -1,9 +1,11 @@
 ---
-title: About
+title: "About👌- Có gì sau nhá 😂"
 author: vietzettt
 date: 2022-09-28
 category: vietzettt
-layout: post
+layout: home
+cover: /assets/img/dinosaur.gif
 ---
-
-This is an about page.
+<!-- <div align="center">
+    <p>Có gì sẽ cập nhật sau nhá 😘</p>
+</div> -->
