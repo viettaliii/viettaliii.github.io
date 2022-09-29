@@ -2,7 +2,6 @@
 title: "Writeup DownUnderCTF 2022 - RE"
 author: vietzettt
 date: 2022-09-23
-category: ctf
 layout: post
 cover: /src/2022/DownUnderCTF/00_img_pages/cover.webp
 ---

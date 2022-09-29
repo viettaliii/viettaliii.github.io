@@ -2,7 +2,6 @@
 title: #Tiêu đề hiện thị trên trang
 author: vietzettt
 date:  #Ngày tạo
-category: ctf #phân loại theo thư mục
 layout: post
 cover: #thêm ảnh bìa cho trang 
 ---
