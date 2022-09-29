@@ -10,8 +10,8 @@ require(['gitbook', 'jquery'], function(gitbook, $) {
     // Default themes
     var THEMES = [
         {
-            config: 'white',
-            text: 'White',
+            config: 'night',
+            text: 'Night',
             id: 0
         },
         {
@@ -20,8 +20,8 @@ require(['gitbook', 'jquery'], function(gitbook, $) {
             id: 1
         },
         {
-            config: 'night',
-            text: 'Night',
+            config: 'white',
+            text: 'White',
             id: 2
         }
     ];
@@ -146,7 +146,7 @@ require(['gitbook', 'jquery'], function(gitbook, $) {
             return theme.config == configName;
         })[0];
         // Fallback to default theme
-        return (!!configTheme)? configTheme.id : 2;
+        return (!!configTheme)? configTheme.id : 0;
     }
 
     function update() {
