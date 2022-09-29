@@ -109,7 +109,7 @@ b:
 
 ```
 
-Từ phân tích trên thì ta thấy rõ bài này sẽ yêu cầu ta nhập `input` gì đó rồi rồi mã hóa từng kí tự của `input` đem so sánh với `c`
+Từ phân tích trên thì ta thấy rõ bài này sẽ yêu cầu ta nhập `input` flag rồi rồi mã hóa từng kí tự của `input` đem so sánh với `c`
 Với bài này chỉ sử dụng toán tử `xor, and, add` nên tôi sẽ đảo ngược lại quá trình nó với `c` là đầu vào và `print` kết quả nhận được.
 Và đây là source Python tôi code để tạo flag:
 
