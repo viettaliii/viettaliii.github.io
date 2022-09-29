@@ -1,5 +1,5 @@
 ---
-title: "🎶💀Contact 📞1️⃣1️⃣3️⃣"
+title: "💀Contact 🏳️‍🌈"
 author: vietzettt
 date: 2022-09-28
 category: vietzettt
