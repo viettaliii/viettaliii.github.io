@@ -1,5 +1,5 @@
 ---
-title: "💀Contact 🏳️‍🌈"
+title: "💀Contact - RE🏳️‍🌈"
 author: vietzettt
 date: 2022-09-28
 category: vietzettt
