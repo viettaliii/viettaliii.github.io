@@ -3,6 +3,7 @@ title: #Tiêu đề hiện thị trên trang
 author: vietzettt
 date:  #Ngày tạo
 layout: post
+published: false  #đây là ẩn khỏi trang
 cover: #thêm ảnh bìa cho trang 
 ---
 
