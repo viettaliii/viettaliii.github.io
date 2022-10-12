@@ -3,6 +3,7 @@ author: vietzettt
 layout: home
 title: "🎉no_r3m0rs3@mpei.ru🎉"
 permalink: /
+cover: /assets/img/Logo%20Team%20SeaHatVN.gif
 ---
 {%- for post in site.posts -%}
   {%- capture current_year -%}{{ post.date | date: "%Y" }}{%- endcapture -%}
