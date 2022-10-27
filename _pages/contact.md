@@ -11,8 +11,10 @@ cover: /assets/img/programming.gif
 
 Tools | Detail |
 --- | --- |
+[dogbolt.org](https://dogbolt.org/)|Decompiler Explorer: Ghidra, Hex-Rays, angr, BinaryNinja,...|
 [PyC decompile](https://www.toolnb.com/tools-lang-en/pyc.html) | Decompile file .pyc |
 [Java decompiler](http://www.javadecompilers.com/) | Decompile file .jav, .class and apktool  |
+[disassembler.io](https://onlinedisassembler.com/odaweb/) |Disassembly in the cloud|
 
 #### 💀PWN💀
 
@@ -24,7 +26,10 @@ Tools | Detail |
 
 Tools | Detail |
 --- | --- |
+[CyberChef](https://gchq.github.io/CyberChef/)| Compression, encryption, decryption, data analysis,...|
 [dcode.fr](https://www.dcode.fr/cipher-identifier) | Cipher Identifier, and many more things |
+[boxentriq](https://www.boxentriq.com/code-breaking/cipher-identifier)| Cipher Identifier and Analyzer |
+[cryptii](https://cryptii.com/) | Encode and decode ciphers, morse,...|
 
 ###### 🐳OTHER🐳
 
