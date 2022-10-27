@@ -8,7 +8,7 @@ published: true
 
 ---
 
-##### **Nguồn ở đây nhá các bạn:** [💀**Nhấp em đi**👆](/src/2022/Cryptoversectf/)
+##### **Nguồn ở đây nhá các bạn:** [💀**👆👆👆**💀](https://github.com/vietzettt/vietzettt.github.io/tree/main/src/2022/Cryptoversectf)
 
 Chào các bạn đến với một chút tâm sự của tôi sau cái giải newbie nè😁))
 

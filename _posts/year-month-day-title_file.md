@@ -9,7 +9,7 @@ cover: #thêm ảnh bìa cho trang
 
 ---
 
-##### **Nguồn ở đây nhá các bạn:** [💀**Nhấp em đi**👆](/src/2022/)
+##### **Nguồn ở đây nhá các bạn:** [💀**Nhấp em đi**👆](https://github.com/vietzettt/vietzettt.github.io/tree/main/src/)
 <!-- chỗ này ta sẽ chèn link dẫn đến nguồn tổng nhé-->
 
 ### Task 1
