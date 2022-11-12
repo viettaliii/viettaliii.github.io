@@ -1,5 +1,5 @@
 ---
-title: forkbomb.ru
+title: 🐳🐳🐳forkbomb.ru
 author: vietzettt
 date:  0000-08-02
 layout: post
