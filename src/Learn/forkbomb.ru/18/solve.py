@@ -1,4 +1,4 @@
-f =open("encoded_flag3",'r', encoding='cp437')
+f =open("encoded_flag3",'r', encoding='cp850')
 flag_encode = f.read()
 # print(flag_encode)
 lst1 = []
