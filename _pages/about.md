@@ -1,5 +1,5 @@
 ---
-title: "About👌- О тебе😂"
+title: "About👌"
 author: vietzettt
 date: 2022-09-28
 category: vietzettt

@@ -1,5 +1,5 @@
 ---
-title: "Contact - Tools🏳️‍🌈"
+title: "Tools🏳️‍🌈"
 author: vietzettt
 date: 2022-09-28
 category: vietzettt
@@ -7,7 +7,7 @@ layout: home
 cover: /assets/img/programming.gif
 ---
 
-#### ◀️RE◀️
+#### RE
 
 Tools | Detail |
 --- | --- |
@@ -16,13 +16,13 @@ Tools | Detail |
 [Java decompiler](http://www.javadecompilers.com/) | Decompile file .jav, .class and apktool  |
 [disassembler.io](https://onlinedisassembler.com/odaweb/) |Disassembly in the cloud|
 
-#### 💀PWN💀
+#### PWN
 
 Tools | Detail |
 --- | --- |
  |   |
 
-##### 🦀CRYPTO🦀
+##### CRYPTO
 
 Tools | Detail |
 --- | --- |
@@ -31,7 +31,7 @@ Tools | Detail |
 [boxentriq](https://www.boxentriq.com/code-breaking/cipher-identifier)| Cipher Identifier and Analyzer |
 [cryptii](https://cryptii.com/) | Encode and decode ciphers, morse,...|
 
-###### 🐳OTHER🐳
+###### OTHER
 
 Tools | Detail |
 --- | --- |

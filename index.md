@@ -1,7 +1,7 @@
 ---
 author: vietzettt
 layout: home
-title: "💀v13t_z3ttt@mpei.ru◀️"
+title: "💀v13t_z3ttt.ru🪆"
 permalink: /
 cover: /assets/img/Logo%20Team%20SeaHatVN.gif
 ---
