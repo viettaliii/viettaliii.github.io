@@ -69,8 +69,8 @@ for i in lst2:
 # Your flag: SayNoToBoringProgrammingLabs
 ```
 
-### Task 3
+<!-- ### Task 3
 
 ### Task 4
 
-### Task 5
+### Task 5 -->
