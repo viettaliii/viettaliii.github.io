@@ -35,4 +35,5 @@ Tools | Detail |
 
 Tools | Detail |
 --- | --- |
- |  |
+[photopea](https://www.photopea.com/) | Edit photo psd, ai, pdf,... online |
+[SnapInsta](https://snapinsta.io/vi1) |Download videos from youtube|
