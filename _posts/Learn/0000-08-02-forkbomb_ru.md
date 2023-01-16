@@ -3,7 +3,7 @@ title: 🐳forkbomb.ru
 author: vietzettt
 date:  0000-08-02
 layout: post
-published: true 
+published: false 
 cover: /src/Learn/forkbomb.ru/00_conver.png
 ---
 
