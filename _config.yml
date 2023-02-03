@@ -50,6 +50,9 @@ collections:
   pages:
     output: true
     permalink: /:collection/:path/
+  posts:
+    output: true
+    permalink: /:collection/:year/:month/:title
 
 page_width: 800px
 
