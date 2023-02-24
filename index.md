@@ -1,7 +1,7 @@
 ---
 author: vietzettt
 layout: home
-title: "💀Vietzettt's WriteUppp"
+title: "Vietzettt's WriteUppp"
 permalink: /
 cover: /assets/img/Logo%20Team%20SeaHatVN.gif
 ---
