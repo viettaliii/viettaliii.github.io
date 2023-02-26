@@ -1,5 +1,5 @@
 ---
-title: Writeup Cryptoverse CTF 2022 
+title: Cryptoverse CTF 2022 
 author: vietzettt
 date:  2022-10-22 
 layout: post
