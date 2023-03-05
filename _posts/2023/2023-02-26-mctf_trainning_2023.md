@@ -1,15 +1,15 @@
 ---
-title: M*CTF Trainning 2023
+title: M*CTF Training 2023
 author: vietzettt
 date:  2023-02-26
 layout: post
 published: true
-cover: /src/2023/MCTFtrainning2023/cover.svg
+cover: /src/2023/MCTFtraining2023/cover.svg
 ---
 
 ---
 
-##### **Nguồn ở đây nhá các bạn:** [💀**👆👆👆**💀](https://github.com/vietzettt/vietzettt.github.io/tree/main/src/MCTFtrainning2023)
+##### **Nguồn ở đây nhá các bạn:** [💀**👆👆👆**💀](https://github.com/vietzettt/vietzettt.github.io/tree/main/src/MCTFtraining2023)
 
 Xin chào tất cả mọi người đến với giải đấu team tôi xung mãn lực lượng í ì i.... Rất nhiều mảng nhiều challs để giải rất phù hợp cho mấy người mới chơi CTF (vì nó là đào tạo để thi đấu).
 
@@ -17,7 +17,7 @@ Sau đây tôi sẽ viết 3 bài reverse của giải, nó khá dễ nhưng l�
 
 ### 1: Tango
 
-![title](/src/2023/MCTFtrainning2023/tango/00_title.png)
+![title](/src/2023/MCTFtraining2023/tango/00_title.png)
 
 Đối với cái bài này thì họ cho ta file viết bằng python -> mở nó ra và cùng đọc nhé
 
@@ -111,13 +111,13 @@ Thế là xong nhé.
 
 ### 2: 16 bit
 
-![title](/src/2023/MCTFtrainning2023/16_bit/00_title.png)
+![title](/src/2023/MCTFtraining2023/16_bit/00_title.png)
 
 Tiếp đến là bài này. Bài này hơi xàm 1 là chạy chương trình thì thỏa mãn rất nhiều key là đều đúng. Thế nên tôi đi hỏi người ra đề, thì đề đó có nhiều cách giải nhưng flag gửi là phải theo đúng kết quả của người ra đề... (thật khó để ra)
 
 Mở IDA lên ra đọc:
 
-![flow](/src/2023/MCTFtrainning2023/16_bit/01_flow_check.png)
+![flow](/src/2023/MCTFtraining2023/16_bit/01_flow_check.png)
 
 Đó như thấy thì quan trọng của chương trình này là 2 cái so sánh chính của key.
 
@@ -133,7 +133,7 @@ Thôi cũng không có gì để nói với cái bài này. Flag: `MCTF{nnnnnnnn
 
 ### 3: Incorrect password
 
-![title](/src/2023/MCTFtrainning2023/Incorrect_password/00_title.png)
+![title](/src/2023/MCTFtraining2023/Incorrect_password/00_title.png)
 
 Và cái bài này ối dồi ôi hệ thống khả năng lỗi vì lúc đầu tôi gửi đúng là chắc do họ để flag sai nên gửi không chấp nhận. Thế là tôi đi mò tung các ngoại lệ của chương trình đấy ra... rồi cũng không có gì...
 
@@ -141,7 +141,7 @@ Thế là tôi đi gửi lại flag thì nó được:00))) thật là 🥲
 
 Đây là flow của chương trình:
 
-![flow](/src/2023/MCTFtrainning2023/Incorrect_password/01_flow.png)
+![flow](/src/2023/MCTFtraining2023/Incorrect_password/01_flow.png)
 
 Đọc 1 tí là thấy hàm kiểm tra thông qua chuỗi `password1`, mỗi phần tử đều trừ đi 1 rồi in ra key :))
 
