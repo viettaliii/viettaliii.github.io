@@ -43,3 +43,4 @@ Tools | Detail |
 [StegOnline](https://stegonline.georgeom.net/upload)| Phân tích ảnh |
 [Steganography](https://stylesuxx.github.io/steganography/)| Decode image & Encode message |
 [Stego Tricks](https://book.hacktricks.xyz/crypto-and-stego/stego-tricks)| Gồm nhiều hướng dẫn steg |
+[Barcode Reader](https://online-barcode-reader.inliteresearch.com/) | Đọc barcode online |
