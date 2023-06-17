@@ -33,8 +33,10 @@ Tools | Detail |
 [dcode.fr](https://www.dcode.fr/cipher-identifier) | Cipher Identifier, and many more things |
 [boxentriq](https://www.boxentriq.com/code-breaking/cipher-identifier)| Cipher Identifier and Analyzer |
 [cryptii](https://cryptii.com/) | Encode and decode ciphers, morse,...|
+[Boxentriq](https://www.boxentriq.com/code-breaking/cipher-identifier)| Cipher Identifier and Analyzer...|
+[Hashes](https://hashes.com/en/decrypt/hash)| Decrypt hashes |
 
-###### OTHER
+##### OTHER
 
 Tools | Detail |
 --- | --- |
@@ -44,3 +46,5 @@ Tools | Detail |
 [Steganography](https://stylesuxx.github.io/steganography/)| Decode image & Encode message |
 [Stego Tricks](https://book.hacktricks.xyz/crypto-and-stego/stego-tricks)| Gồm nhiều hướng dẫn steg |
 [Barcode Reader](https://online-barcode-reader.inliteresearch.com/) | Đọc barcode online |
+[Aperi'Solve](https://www.aperisolve.com/) |Analysis on image|
+[Forensically](https://29a.ch/photo-forensics/#forensic-magnifier)|Phân tích ảnh, tìm kiếm thông tin |
